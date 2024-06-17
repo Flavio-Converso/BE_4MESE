@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|c:\\users\\sirar\\documents\\epicode\\4mesebe\\esercizi\\primasettimana\\17-06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|c:\\users\\sirar\\documents\\epicode\\4mesebe\\esercizi\\primasettimana\\17-06\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|solutionrelative:veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|c:\\users\\sirar\\documents\\epicode\\4mesebe\\esercizi\\primasettimana\\17-06\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|solutionrelative:dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|c:\\users\\sirar\\documents\\epicode\\4mesebe\\esercizi\\primasettimana\\17-06\\atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|solutionrelative:atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|c:\\users\\sirar\\documents\\epicode\\4mesebe\\esercizi\\primasettimana\\17-06\\animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610003CB-7AC9-41F8-82E4-A24278567833}|17-06.csproj|solutionrelative:animale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Atleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,12 +42,11 @@
               "RelativeToolTip": "Veicolo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:30:56.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T13:30:56.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Animale.cs",
               "DocumentMoniker": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Animale.cs",
               "RelativeDocumentMoniker": "Animale.cs",
@@ -55,12 +54,11 @@
               "RelativeToolTip": "Animale.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:26:55.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T13:26:55.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dipendente.cs",
               "DocumentMoniker": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Dipendente.cs",
               "RelativeDocumentMoniker": "Dipendente.cs",
@@ -68,12 +66,11 @@
               "RelativeToolTip": "Dipendente.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T13:24:36.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T13:24:36.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Atleta.cs",
               "DocumentMoniker": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Atleta.cs",
               "RelativeDocumentMoniker": "Atleta.cs",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "Atleta.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T12:59:56.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-17T12:59:56.958Z"
             },
             {
               "$type": "Document",
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\17-06\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-17T12:57:09.655Z",
               "EditorCaption": ""
