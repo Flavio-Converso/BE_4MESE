@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\18-06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\18-06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\18-06.csproj",
+        "projectName": "18-06",
+        "projectPath": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\18-06.csproj",
         "packagesPath": "C:\\Users\\sirar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\sirar\\Documents\\epicode\\4meseBE\\esercizi\\primaSettimana\\18-06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sirar\\AppData\\Roaming\\NuGet\\NuGet.Config",
