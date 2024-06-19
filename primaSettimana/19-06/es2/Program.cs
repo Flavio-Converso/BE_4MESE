@@ -21,6 +21,7 @@ namespace es2
                 {
                     check = true;
                     Console.WriteLine("Il nome esiste");
+                    Cerca(nomi);
                 }
             }
 
