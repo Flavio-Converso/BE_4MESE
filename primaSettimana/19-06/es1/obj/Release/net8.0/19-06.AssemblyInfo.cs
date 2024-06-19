@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("19-06")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc0b61daf29b57e442f4c006ca8f84f089b1b616")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9abf5f2aa7b61f2dd4a9c1adb84d0b91c0175941")]
 [assembly: System.Reflection.AssemblyProductAttribute("19-06")]
 [assembly: System.Reflection.AssemblyTitleAttribute("19-06")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
