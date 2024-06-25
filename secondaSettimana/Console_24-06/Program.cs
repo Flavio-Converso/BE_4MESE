@@ -10,7 +10,7 @@ namespace Console_24_06
         private List<MenuModel> ordine = new List<MenuModel>();
         private decimal totale = 0.0m;
 
-        public void Start()
+        private void Start()
         {
             Console.WriteLine("Menu:");
             int index = 1;
