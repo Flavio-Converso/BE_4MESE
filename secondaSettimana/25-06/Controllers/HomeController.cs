@@ -17,7 +17,8 @@ namespace _25_06.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            CV mioCV = CVHelper.CreaCV();
+            return View(mioCV);
         }
 
         public IActionResult Privacy()

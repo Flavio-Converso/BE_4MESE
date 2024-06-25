@@ -10,6 +10,3 @@ C:\Users\sirar\Documents\epicode\4meseBE\esercizi\secondaSettimana\Console25-06\
 C:\Users\sirar\Documents\epicode\4meseBE\esercizi\secondaSettimana\Console25-06\obj\Debug\net8.0\refint\Console25-06.dll
 C:\Users\sirar\Documents\epicode\4meseBE\esercizi\secondaSettimana\Console25-06\obj\Debug\net8.0\Console25-06.pdb
 C:\Users\sirar\Documents\epicode\4meseBE\esercizi\secondaSettimana\Console25-06\obj\Debug\net8.0\ref\Console25-06.dll
-C:\Users\sirar\Documents\epicode\4meseBE\esercizi\secondaSettimana\Console25-06\bin\Debug\net8.0\Console25-06.exe
-C:\Users\sirar\Documents\epicode\4meseBE\esercizi\secondaSettimana\Console25-06\bin\Debug\net8.0\Console25-06.runtimeconfig.json
-C:\Users\sirar\Documents\epicode\4meseBE\esercizi\secondaSettimana\Console25-06\obj\Debug\net8.0\Console25-06.genruntimeconfig.cache
