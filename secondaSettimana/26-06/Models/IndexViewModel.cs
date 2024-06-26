@@ -8,13 +8,9 @@
 
         public IndexViewModel()
         {
-            Sale = new List<Sala>
-            {
-                new Sala { NomeSala = "SalaEst", PostiTotali = 120 },
-                new Sala { NomeSala = "SalaSud", PostiTotali = 120 },
-                new Sala { NomeSala = "SalaNord", PostiTotali = 120 }
-            };
-            Biglietto = new Biglietto();
+            Persona = new Persona();
+            Biglietto = new Biglietto { Sala = new Sala() };
+            Sale = new List<Sala>(); // La lista viene popolata dal controller
         }
     }
 }

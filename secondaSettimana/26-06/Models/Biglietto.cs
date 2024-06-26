@@ -14,6 +14,6 @@ namespace _26_06.Models
         public TipoBiglietto Tipo { get; set; }
 
         [Display(Name = "Sala Assegnata")]
-        public Sala Sala { get; set; } // Proprietà Sala aggiunta
+        public Sala Sala { get; set; }
     }
 }

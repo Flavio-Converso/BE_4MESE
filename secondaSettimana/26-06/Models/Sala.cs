@@ -1,4 +1,6 @@
-﻿namespace _26_06.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace _26_06.Models
 {
     public class Sala
     {
